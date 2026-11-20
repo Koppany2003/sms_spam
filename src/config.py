@@ -12,3 +12,6 @@ ADATFORRAS_URL = (
     "https://archive.ics.uci.edu/static/public/228/"
     "sms+spam+collection.zip"
 )
+
+# A gépi tanulási modell ismételhető tanításához használt beállítás.
+VELETLEN_MAG = 42
